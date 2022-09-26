@@ -1,0 +1,14 @@
+assets: Images, css & fonts
+components: reusable components like button, input
+constants: contain the constant file Eg: Regex
+helpers: reusable helper function
+layouts : common top wrapper component - navbar, sidebar and children components
+pages: page component
+
+routes: It contain the page routes
+schema - contain the schema files
+
+service: It contain the dynamic http request like api details
+store: contains the redux files like actions, reducers and actionTypes
+styles: css file
+

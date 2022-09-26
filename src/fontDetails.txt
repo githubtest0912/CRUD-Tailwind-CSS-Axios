@@ -1,0 +1,30 @@
+Montserrat
+-----------
+@import url('https://fonts.googleapis.com/css2?family=Montserrat&display=swap');
+
+font-family: 'Montserrat', sans-serif;
+
+
+quicksand - size - 12, 14, 15, 16, 20, 25, 40
+---------------------------------------------
+
+@import url('https://fonts.googleapis.com/css2?family=Quicksand&display=swap');
+
+font-family: 'Quicksand', sans-serif;
+
+Roboto - size - 15
+------------------
+@import url('https://fonts.googleapis.com/css2?family=Roboto&display=swap');
+
+font-family: 'Roboto', sans-serif;
+
+bitter
+------
+
+@import url('https://fonts.googleapis.com/css2?family=Bitter&display=swap');
+
+font-family: 'Bitter', serif;
+
+
+
+
