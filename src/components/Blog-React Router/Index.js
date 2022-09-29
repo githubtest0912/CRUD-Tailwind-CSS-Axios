@@ -16,21 +16,21 @@ const Index = () => {
   const [posts, setPosts] = useState([
     {
       id: 1,
-      title: "My first post",
+      title: "Do Your Research",
       datetime: "July 01, 2021 11:17:36 AM",
-      body: "laudantium enim quasi est quidem magnam voluptate ipsam eos\ntempora quo necessitatibus\ndolor quam autem quasi\nreiciendis et nam sapiente accusantium",
+      body: "In blogging, content rules all. As developers, we may have multiple ideas, problem-solving steps, and new learnings we want to get down. But the most crucial part is being able to turn it into quality content. It's usually necessary to take the time required to research your topic thoroughly.",
     },
     {
       id: 2,
-      title: "My second post",
-      datetime: "July 01, 2021 11:17:36 AM",
-      body: "est natus enim nihil est dolore omnis voluptatem numquam\net omnis occaecati quod ullam at\nvoluptatem error expedita pariatur\nnihil sint nostrum voluptatem reiciendis et",
+      title: "Know your purpose",
+      datetime: "June 01, 2022 10:17:36 PM",
+      body: "We all need a purpose when we start something and the motivation to continue it. The intent behind our actions and our motivation may be different for everyone. You need to find your intent or purpose that explains why you want to start a blog or share your content",
     },
     {
       id: 3,
-      title: "My third post",
+      title: "Find Your Motivation",
       datetime: "July 01, 2021 11:17:36 AM",
-      body: "quia molestiae reprehenderit quasi aspernatur\naut expedita occaecati aliquam eveniet laudantium\nomnis quibusdam delectus saepe quia accusamus maiores nam est\ncum et ducimus et vero voluptates excepturi deleniti ratione",
+      body: "Motivation can do wonders when you have it, but it can be hard to continue without it. As a content creator, your biggest motivation is likely to hear feedback from your readers. Positive feedback and constructive criticism always help you improve the content you create.",
     },
   ]);
   // search
