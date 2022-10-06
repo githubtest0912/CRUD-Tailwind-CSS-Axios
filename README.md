@@ -1,9 +1,11 @@
+//--- E-commerce and React-Redux project -----------------
+
 create DATA.js file and store all the product details and selected image from 'https://www.freepik.com/popular-photos' url.
 
 => used bootstrap, React and Redux
 
-1.
-2. 3.setup header component
+1. install fontawesome, bootstrap, react-bootstrap, redux, react-redux, react-router-dom and import them
+2. setup header component
 3. Replace 'a' to 'NavLink' and 'href' to 'to'
 4. create Login, SignUp and Cart Button
 5. Create Homepage
@@ -25,4 +27,8 @@ create DATA.js file and store all the product details and selected image from 'h
 21. create Cart.js file in components
 22. create Proceed to check out button
 23. create checkout component
-24. 
+
+
+//----------------------------------------------------------------
+
+

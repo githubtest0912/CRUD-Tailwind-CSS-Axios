@@ -17,6 +17,7 @@ const Checkout = () => {
               <h6 className="my-0">{item.title}</h6>
               {/* <small className="text-muted">{item.desc}</small> */}
             </div>
+           
             <span className="text-muted">${item.price}</span>
           </li>
         )
